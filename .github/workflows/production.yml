@@ -1,7 +1,7 @@
 name: Publish the latest Docker image
 on:
   push:
-    branches: ['main']
+    branches: ['main-v2']
 
 jobs:
   push_to_registry:
@@ -31,4 +31,4 @@ jobs:
         with:
           push: true
           tags: |
-            ghcr.io/spaceflightnewsapi/spaceflightnewsapi:latest
+            ghcr.io/spaceflightnewsapi/spaceflightnewsapi:v2
