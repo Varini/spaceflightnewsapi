@@ -1,0 +1,1 @@
+(self.webpackChunksnapiwebsite=self.webpackChunksnapiwebsite||[]).push([[631],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"README","permalink":"/blog/README"}]}')}}]);
