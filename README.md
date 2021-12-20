@@ -8,7 +8,7 @@ Spaceflight News API was created as a solution for my problem when I wanted to d
 
 To make it easier for myself, I began a project that would aggegrate metadata from those news sites and publish them through an API. Since there are others that might benefit from this API, I decided make the API publicly available.
 
-There are great apps out on the internet, that are connected to services like <https://www.launchlibrary.net/>. By making this API available to everyone, I hope to open new doors for the developers of these apps.
+There are great apps out on the internet, that are connected to services like <https://thespacedevs.com/>. By making this API available to everyone, I hope to open new doors for the developers of these apps.
 
 ## Documentation
 
@@ -56,6 +56,10 @@ A nice to have if you want to have a "related news/launches" section in your app
 - National Space Society
 
 ## Changelog
+# V3.4.0
+
+- Package updates
+- Sentry fixes
 
 # V3.0.0
 
